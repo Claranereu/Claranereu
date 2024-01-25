@@ -1,6 +1,6 @@
 ### Oii, Eu sou Clara Nereu 👋
 
-- 🌱 Estudante de Ciência e Tecnologia e Ciência de Dados(Python)
+- 🌱 Biotecnology
 
 <div align="center">
   <a href="https://github.com/Claranereu">
